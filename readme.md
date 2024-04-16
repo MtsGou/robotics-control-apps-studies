@@ -36,16 +36,14 @@ Most of this repository have been written to be run in MATLAB.
 
 ### - **Signal, noise and covariance studies**
 
-- Covariance with MA filtering
+- Autocorrelation with MA filtering
 
-[comment]: <![Covariance with MA filtering](/plots/covariancia_3d_gif.gif)>
+[comment]: <![Autocorrelation with MA filtering](/plots/covariancia_3d_gif.gif)>
 <p align="center">
 <img src="./plots/covariancia_3d_gif.gif" />
 </p>
 
-- Correlation with MA filtering
-
-[comment]: <![Correlation with MA filtering](/plots/correlacao_3.png)>
+[comment]: <![Autocorrelation 2 with MA filtering](/plots/correlacao_3.png)>
 <p align="center">
 <img src="./plots/correlacao_3.png" />
 </p>
